@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Sétimo Projeto Em C#\Sétimo-Projeto-Em-C#\Sétimo-Projeto-Em-C#\bin\Debug\Sétimo-Projeto-Em-C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Sétimo Projeto Em C#\Sétimo-Projeto-Em-C#\Sétimo-Projeto-Em-C#\bin\Debug\Sétimo-Projeto-Em-C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Sétimo Projeto Em C#\Sétimo-Projeto-Em-C#\Sétimo-Projeto-Em-C#\bin\Debug\Sétimo-Projeto-Em-C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Sétimo Projeto Em C#\Sétimo-Projeto-Em-C#\Sétimo-Projeto-Em-C#\obj\Debug\Sétimo-Projeto-Em-C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Sétimo Projeto Em C#\Sétimo-Projeto-Em-C#\Sétimo-Projeto-Em-C#\obj\Debug\Sétimo-Projeto-Em-C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Sétimo Projeto Em C#\Sétimo-Projeto-Em-C#\Sétimo-Projeto-Em-C#\obj\Debug\Sétimo-Projeto-Em-C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Sétimo Projeto Em C#\Sétimo-Projeto-Em-C#\Sétimo-Projeto-Em-C#\obj\Debug\Sétimo-Projeto-Em-C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Sétimo Projeto Em C#\Sétimo-Projeto-Em-C#\Sétimo-Projeto-Em-C#\obj\Debug\Sétimo-Projeto-Em-C#.pdb
